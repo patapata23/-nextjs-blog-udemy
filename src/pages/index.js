@@ -34,7 +34,7 @@ export default function Home({allPostData}) {
       <title>{siteTitle}</title>
     </Head>
    <section className="headingMd">
-    私はフルスタックエンジニアです
+    私はNext.jsエンジニアです
    </section>
    <section className="headingMd padding1px">
     <h2>📝エンジニアのブログ</h2>
